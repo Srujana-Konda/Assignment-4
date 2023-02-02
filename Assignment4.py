@@ -1,4 +1,3 @@
-'''
 #Question 1:
 
 #Libraries required
@@ -31,7 +30,6 @@ print(data.plot.scatter(x ='Duration', y= 'Calories'))
 plt.show()
 
 
-'''
 
 #Question 2:
 
